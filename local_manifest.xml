@@ -29,12 +29,12 @@
         path="vendor/xiaomi/courbet"
         name="vendor_xiaomi_courbet"
         remote="Aciss21"
-        revision="16.2" />
+        revision="17" />
 
     <!-- MIUI Camera -->
     <project
-        path="vendor/xiaomi/miuicamera-courbet"
-        name="vendor_xiaomi_miuicamera-courbet"
+        path="vendor/miuicamera-courbet"
+        name="vendor_miuicamera-courbet"
         remote="Aciss21"
         revision="16" />
 
@@ -46,11 +46,6 @@
         revision="16" />
 
     <!-- Kernel -->
-    <project
-        path="kernel/xiaomi/sm6150"
-        name="kernel_xiaomi_sm6150"
-        remote="Aciss21"
-        revision="16" />
 
     <!-- Dolby -->
     <project
