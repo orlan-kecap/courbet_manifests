@@ -29,7 +29,7 @@
         path="vendor/xiaomi/courbet"
         name="vendor_xiaomi_courbet"
         remote="Aciss21"
-        revision="17" />
+        revision="16.2" />
 
     <!-- MIUI Camera -->
     <project
